@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Hey+There!+👋+Welcome+to+My+GitHub+Universe;AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Building+Intelligent+Systems+🚀;Lifelong+Learner+and+Tech+Explorer+🌍;Let's+Innovate+Together!+🔥" alt="Typing SVG" />
 </p>
 
-<!-- Colorful Header -->
+<!-- Fixed & Vibrant Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=ff0080,ff00ff,39ff14&height=200&section=header&text=🚀%20Amanulla%20Kesaratti!%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0080,8000FF,39FF14&height=250&section=header&text=🚀%20Amanulla%20Kesaratti!%20🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 </p>
+
 
 ---
 
