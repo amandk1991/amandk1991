@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🧠 **About Me**
-- 🔭 I’m currently working on **MRI Image Generation with WGANs**
+- 🔭 I’m currently working on **AI systems and fine tuning**
 - 🌱 Exploring **LLMs, Prompt Engineering, and Advanced AI Applications**
 - 🛠️ Developed a **SQL + HiveQL Compiler** helping 500+ students
 - 🎓 Final-year CS student with hands-on experience in **Big Data Analytics & AI**
