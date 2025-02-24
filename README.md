@@ -1,97 +1,64 @@
-## Hi there 👋
-
-<!--
-**amandk1991/amandk1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Banner -->
+<!-- Animated Gradient Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4CFBF5&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Passionate+about+Building+Intelligent+Systems;Welcome+to+my+GitHub+Space!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Hey+There!+👋+Welcome+to+My+GitHub+Universe;AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Building+Intelligent+Systems+🚀;Lifelong+Learner+and+Tech+Explorer+🌍;Let's+Innovate+Together!+🔥" alt="Typing SVG" />
 </p>
 
-
-<!-- Intro -->
-<h1 align="center">I'm Amanulla Kesaratti! 👋</h1>
-
+<!-- Fancy Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
+  <img src="https://raw.githubusercontent.com/amandk1991/amandk1991/main/assets/wave.svg" width="100%" height="50px" />
 </p>
 
-🌟 **AI Enthusiast & Machine Learning Practitioner**  
-🔬 Passionate about **Generative AI, Prompt Engineering, and Big Data**  
-💻 Building **Hybrid Encryption Algorithms & AI-powered Solutions**  
-🎯 Open to **collaborations, research, and innovative AI projects!**  
-
----
-
-## 🧠 **About Me**
-- 🔭 I’m currently working on **AI systems and fine tuning**
-- 🌱 Exploring **LLMs, Prompt Engineering, and Advanced AI Applications**
-- 🛠️ Developed a **SQL + HiveQL Compiler** helping 500+ students
-- 🎓 Final-year CS student with hands-on experience in **Big Data Analytics & AI**
-- ⚡ Fun Fact: I believe AI can generate poetry as well as Shakespeare! ✨
-
----
-
-## 🛠️ **Tech Stack**
-  
+<!-- About Me -->
+<h2 align="center">🌟 About Me</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,java,cpp,html,css,tailwind,docker,react,flask,mysql,hadoop&theme=light" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:39FF14&height=200&section=header&text=🚀%20Amanulla%20Kesaratti!%20🚀&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
----
-
-## 📌 **Featured Projects**
-🚀 **[MRI Image Generation with WGANs](https://github.com/amandk1991/Brain-MRI-Augmentation-Using-GAN)** - Training Wasserstein GANs for MRI augmentation  
-🔐 **[Hybrid AES-DES Encryption](https://github.com/amandk1991/HYBRID-AES-DES-ENCRYPTION)** - Secure file encryption using a hybrid cryptographic approach  
-🖥️ **[SQL + HiveQL Compiler](https://bucolic-pegasus-7f35fb.netlify.app/)** - An interactive compiler for executing HiveQL and SQL queries  
-🌎 **[Rapid Bite]([https://github.com/your-repo](https://github.com/amandk1991/Rapid-Bite))** - Personalized ML-powered travel recommendation system  
-
-🔗 **More Projects**: [GitHub Repositories](https://github.com/amandk1991?tab=repositories)
+- 🔭 **I’m currently working on:** AI-driven solutions & Blockchain security
+- 🌱 **I’m currently learning:** Advanced Machine Learning & Quantum Computing
+- 🤝 **Open to collaborations on:** AI, Big Data, and Cybersecurity
+- 🎯 **Goals for 2025:** Build innovative AI solutions & contribute to Open Source
 
 ---
 
-## 🚀 **GitHub Stats & Activity**
+## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <!-- 🔥 Cyberpunk Glowing GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&text_color=39FF14&title_color=FF00FF&icon_color=FFDD00" width="48%" />
-
-  <!-- 💡 Glowing Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=holi-theme&hide_border=true&background=00000000&ring=FF00FF&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
-
-  <!-- 🎨 Neon Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=39FF14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&text_color=39FF14&title_color=FF00FF&icon_color=FFDD00" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=holi-theme&hide_border=true&background=0D1117&ring=FF00FF&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=39FF14" width="48%" />
 </p>
 
 ---
 
 ## 🎭 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandk1991&theme=dracula&bg_color=00000000&color=39FF14&line=FF00FF&point=FFDD00&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandk1991&theme=react-dark&bg_color=0D1117&color=39FF14&line=FF00FF&point=FFDD00&area=true&hide_border=true" width="100%" />
 </p>
 
+---
 
+## 🚀 **Projects & Deployments**
+- 🔐 **[SQL + HiveQL Compiler](https://your-deployment-link.com)** - Interactive compiler for HiveQL queries **[🔗 Try it Here!](https://your-deployment-link.com)**  
+- 🖥️ **[Hybrid AES-DES Encryption](https://github.com/your-repo)** - Secure file encryption  
+- 🌍 **[TOUREXX](https://github.com/your-repo)** - AI-powered travel recommendations  
+- 🧠 **[MRI Image Generation with WGANs](https://github.com/your-repo)** - AI for MRI augmentation  
 
 ---
 
-## 📫 **Let's Connect!**
+## 🎮 **Fun Fact:**
+🔹 Did you know? **Neural networks are inspired by the human brain but work 1 million times faster!** 🤯  
 
-📧 **Email**: [aman.at.job.02@gmail.com](mailto:aman.at.job.02@gmail.com)  
-💼 **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/aman-at-job](https://www.linkedin.com/in/amanulla-kesaratti-a4148923a/))  
+<!-- Fancy Footer Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amandk1991/amandk1991/main/assets/wave.svg" width="100%" height="50px" />
+</p>
 
-
----
-
-🔥 _"Code is like humor. When you have to explain it, it’s bad." — Cory House_  
-🎯 **Let’s build something amazing together!** 🚀  
+<!-- Profile Views & Contact -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amandk1991&label=Profile+Views&color=ff69b4&style=flat" alt="profile views" />
+  <br>
+  📫 **Reach Me At:**  
+  <a href="mailto:aman.at.job.02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
