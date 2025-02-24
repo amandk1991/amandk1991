@@ -61,27 +61,35 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 **GitHub Stats & Activity**
+## 🚀 **GitHub Stats & Activity**
 
 <p align="center">
-  <!-- Glowing GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=00FFFF&title_color=FF00FF&icon_color=FFDD00" width="48%" />
-  
-  <!-- Glowing Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=tokyonight-duo&hide_border=true&background=00000000&ring=FF00FF&fire=FFDD00&currStreakLabel=00FFFF" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=00FFFF" width="48%" />
+  <!-- 🔥 Cyberpunk Glowing GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&text_color=39FF14&title_color=FF00FF&icon_color=FFDD00" width="48%" />
+
+  <!-- 💡 Glowing Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=holi-theme&hide_border=true&background=00000000&ring=FF00FF&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
+
+  <!-- 🎨 Neon Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=39FF14" width="48%" />
 </p>
+
+---
+
+## 🎭 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandk1991&theme=dracula&bg_color=00000000&color=39FF14&line=FF00FF&point=FFDD00&area=true&hide_border=true" width="100%" />
+</p>
+
 
 
 ---
 
 ## 📫 **Let's Connect!**
-🌐 **Portfolio**: [amanulla.dev](https://your-portfolio.com)  
+
 📧 **Email**: [aman.at.job.02@gmail.com](mailto:aman.at.job.02@gmail.com)  
 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aman-at-job)  
-🐦 **Twitter**: [@aman_at_job](https://twitter.com/aman_at_job)  
+
 
 ---
 
