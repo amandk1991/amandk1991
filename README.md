@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-at-job&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
