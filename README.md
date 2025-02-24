@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 🖥️ **[SQL + HiveQL Compiler](https://github.com/your-repo)** - An interactive compiler for executing HiveQL queries  
 🌎 **[TOUREXX](https://github.com/your-repo)** - Personalized AI-powered travel recommendation system  
 
-🔗 **More Projects**: [GitHub Repositories](https://github.com/aman-at-job?tab=repositories)
+🔗 **More Projects**: [GitHub Repositories]([https://github.com/aman-at-job?tab=repositories](https://github.com/amandk1991?tab=repositories))
 
 ---
 
