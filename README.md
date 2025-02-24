@@ -14,52 +14,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Amanulla Kesaratti and I'm a Computer Science Engineer from Vijayapura, Karnataka</h2>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4CFBF5&center=true&vCenter=true&width=700&lines=AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Passionate+about+Building+Intelligent+Systems;Welcome+to+my+GitHub+Space!+🚀" alt="Typing SVG" />
+</p>
 
-###
+<!-- Intro -->
+<h1 align="center">Hi there, I'm Amanulla Kesaratti! 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
+</p>
 
-###
+🌟 **AI Enthusiast & Machine Learning Practitioner**  
+🔬 Passionate about **Generative AI, Prompt Engineering, and Big Data**  
+💻 Building **Hybrid Encryption Algorithms & AI-powered Solutions**  
+🎯 Open to **collaborations, research, and innovative AI projects!**  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🧠 **About Me**
+- 🔭 I’m currently working on **MRI Image Generation with WGANs**
+- 🌱 Exploring **LLMs, Prompt Engineering, and Advanced AI Applications**
+- 🛠️ Developed a **SQL + HiveQL Compiler** helping 500+ students
+- 🎓 Final-year CS student with hands-on experience in **Big Data Analytics & AI**
+- ⚡ Fun Fact: I believe AI can generate poetry as well as Shakespeare! ✨
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🛠️ **Tech Stack**
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,java,cpp,html,css,tailwind,docker,react,flask,mysql,hadoop&theme=light" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 📌 **Featured Projects**
+🚀 **[MRI Image Generation with WGANs](https://github.com/your-repo)** - Training Wasserstein GANs for MRI augmentation  
+🔐 **[Hybrid AES-DES Encryption](https://github.com/your-repo)** - Secure file encryption using a hybrid cryptographic approach  
+🖥️ **[SQL + HiveQL Compiler](https://github.com/your-repo)** - An interactive compiler for executing HiveQL queries  
+🌎 **[TOUREXX](https://github.com/your-repo)** - Personalized AI-powered travel recommendation system  
 
-<br clear="both">
+🔗 **More Projects**: [GitHub Repositories](https://github.com/aman-at-job?tab=repositories)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📊 **GitHub Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-at-job&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-at-job&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📫 **Let's Connect!**
+🌐 **Portfolio**: [amanulla.dev](https://your-portfolio.com)  
+📧 **Email**: [aman.at.job.02@gmail.com](mailto:aman.at.job.02@gmail.com)  
+💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aman-at-job)  
+🐦 **Twitter**: [@aman_at_job](https://twitter.com/aman_at_job)  
+
+---
+
+🔥 _"Code is like humor. When you have to explain it, it’s bad." — Cory House_  
+🎯 **Let’s build something amazing together!** 🚀  
