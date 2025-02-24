@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there, I'm Amanulla Kesaratti! 👋</h1>
+<h1 align="center">I'm Amanulla Kesaratti! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
