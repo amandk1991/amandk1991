@@ -64,9 +64,16 @@ Here are some ideas to get you started:
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Glowing GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=00FFFF&title_color=FF00FF&icon_color=FFDD00" width="48%" />
+  
+  <!-- Glowing Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=tokyonight-duo&hide_border=true&background=00000000&ring=FF00FF&fire=FFDD00&currStreakLabel=00FFFF" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=00FFFF" width="48%" />
 </p>
+
 
 ---
 
