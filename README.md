@@ -32,10 +32,14 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,430089&text_color=ffffff&title_color=FFD700&icon_color=FFDD00" width="48%" />
-<img src="https://streak-stats.demolab.com?user=amandk1991&theme=radical&hide_border=true&background=000000&ring=FFD700&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=ffffff&title_color=FFD700&icon_color=FFDD00" width="48%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=amandk1991&theme=radical&hide_border=true&background=000000&ring=FFD700&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" width="500px"/>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" width="48%" />
 </p>
 
 ---
