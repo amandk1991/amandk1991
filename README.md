@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4CFBF5&center=true&vCenter=true&width=700&lines=AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Passionate+about+Building+Intelligent+Systems;Welcome+to+my+GitHub+Space!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4CFBF5&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Passionate+about+Building+Intelligent+Systems;Welcome+to+my+GitHub+Space!+🚀" alt="Typing SVG" />
 </p>
+
 
 <!-- Intro -->
 <h1 align="center">I'm Amanulla Kesaratti! 👋</h1>
