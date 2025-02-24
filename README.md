@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 **Featured Projects**
-🚀 **[MRI Image Generation with WGANs](https://github.com/your-repo)** - Training Wasserstein GANs for MRI augmentation  
-🔐 **[Hybrid AES-DES Encryption](https://github.com/your-repo)** - Secure file encryption using a hybrid cryptographic approach  
-🖥️ **[SQL + HiveQL Compiler](https://github.com/your-repo)** - An interactive compiler for executing HiveQL queries  
-🌎 **[TOUREXX](https://github.com/your-repo)** - Personalized AI-powered travel recommendation system  
+🚀 **[MRI Image Generation with WGANs](https://github.com/amandk1991/Brain-MRI-Augmentation-Using-GAN)** - Training Wasserstein GANs for MRI augmentation  
+🔐 **[Hybrid AES-DES Encryption](https://github.com/amandk1991/HYBRID-AES-DES-ENCRYPTION)** - Secure file encryption using a hybrid cryptographic approach  
+🖥️ **[SQL + HiveQL Compiler](https://bucolic-pegasus-7f35fb.netlify.app/)** - An interactive compiler for executing HiveQL and SQL queries  
+🌎 **[Rapid Bite]([https://github.com/your-repo](https://github.com/amandk1991/Rapid-Bite))** - Personalized ML-powered travel recommendation system  
 
 🔗 **More Projects**: [GitHub Repositories](https://github.com/amandk1991?tab=repositories)
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ## 📫 **Let's Connect!**
 
 📧 **Email**: [aman.at.job.02@gmail.com](mailto:aman.at.job.02@gmail.com)  
-💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aman-at-job)  
+💼 **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/aman-at-job](https://www.linkedin.com/in/amanulla-kesaratti-a4148923a/))  
 
 
 ---
