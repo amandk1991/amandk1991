@@ -1,7 +1,8 @@
-<!-- Animated Gradient Background -->
+<!-- Animated Gradient Background - Fixed -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Hey+There!+👋+Welcome+to+My+GitHub+Universe;AI+Enthusiast+%7C+ML+Practitioner+%7C+Full-Stack+Developer;Building+Intelligent+Systems+🚀;Lifelong+Learner+and+Tech+Explorer+🌍;Let's+Innovate+Together!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Hey+There!+👋+Welcome+to+My+GitHub+Universe;AI+Enthusiast+🚀+|+ML+Practitioner+|+Full-Stack+Dev;Building+Smart+and+Intelligent+Systems;Lifelong+Learner+and+Tech+Explorer+🌍;Let's+Innovate+Together!+🔥" alt="Typing SVG" />
 </p>
+
 
 <!-- Fixed & Vibrant Header -->
 <p align="center">
@@ -13,7 +14,7 @@
 
 ## 🎨 **🌟 About Me**
 🌍 Passionate about **AI**, **Machine Learning**, and **Full-Stack Development**  
-🚀 Focused on **Big Data**, **Cybersecurity**, and **Cloud Computing**  
+🚀 Focused on **Data Analytics**, **AIML**, and **Software Development**  
 💡 Always exploring **cutting-edge technologies** to **build intelligent systems**  
 
 ---
@@ -24,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amandk1991&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,430089&text_color=ffffff&title_color=FFD700&icon_color=FFDD00" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amandk1991&theme=radical&hide_border=true&background=000000&ring=FFD700&fire=FFDD00&currStreakLabel=39FF14" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&layout=compact&theme=radical&hide_border=true&bg_color=000000,430089&title_color=FFD700&text_color=ffffff" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandk1991&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" width="500px"/>
 </p>
 
 ---
