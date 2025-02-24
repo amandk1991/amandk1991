@@ -19,6 +19,15 @@
 
 ---
 
+## 🚀 **Projects & Deployment**
+- 🌎 **[Rapid Bite](https://github.com/amandk1991/Rapid-Bite)** - Personalized ML-powered travel recommendation system  
+- 🧠 **[MRI Image Generation with WGANs](https://github.com/amandk1991/Brain-MRI-Augmentation-Using-GAN)** - AI for MRI augmentation  
+- 🔐 **[Hybrid AES-DES Encryption](https://github.com/amandk1991/HYBRID-AES-DES-ENCRYPTION)** - Secure file encryption using a hybrid cryptographic approach
+- 🖥️ **[SQL + HiveQL Compiler](https://bucolic-pegasus-7f35fb.netlify.app/)** - An interactive compiler for executing HiveQL and SQL queries  
+🔗 **More Projects**: [GitHub Repositories](https://github.com/amandk1991?tab=repositories)
+
+
+---
 ## 📊 **Glowing GitHub Stats & Activity**
 
 <!-- GitHub Stats -->
@@ -37,16 +46,9 @@
 
 ---
 
-## 🚀 **Projects & Deployments**
-- 🔐 **[SQL + HiveQL Compiler](https://your-deployment-link.com)** - Interactive compiler for HiveQL queries **[🔗 Try it Here!](https://your-deployment-link.com)**  
-- 🖥️ **[Hybrid AES-DES Encryption](https://github.com/your-repo)** - Secure file encryption  
-- 🌍 **[TOUREXX](https://github.com/your-repo)** - AI-powered travel recommendations  
-- 🧠 **[MRI Image Generation with WGANs](https://github.com/your-repo)** - AI for MRI augmentation  
-
----
 
 ## 🎨 **🔗 Reach Out & Connect**
 <p align="center">
   <a href="mailto:aman.at.job.02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amanulla-kesaratti-a4148923a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
