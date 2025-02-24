@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 </p>
 
-🌟 **AI Enthusiast & Machine Learning Practitioner**  
+🌟 **  AI Enthusiast & Machine Learning Practitioner**  
 🔬 Passionate about **Generative AI, Prompt Engineering, and Big Data**  
 💻 Building **Hybrid Encryption Algorithms & AI-powered Solutions**  
 🎯 Open to **collaborations, research, and innovative AI projects!**  
