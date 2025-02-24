@@ -5,8 +5,9 @@
 
 <!-- Fancy Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amandk1991/amandk1991/main/assets/wave.svg" width="100%" height="50px" />
+  <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/wave.svg" width="100%" height="50px" />
 </p>
+
 
 <!-- About Me -->
 <h2 align="center">🌟 About Me</h2>
