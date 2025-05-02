@@ -1,5 +1,5 @@
 <!-- Typing animation with background -->
-div align="center" style="background: url('https://i.imgur.com/z7QK5sM.jpg'); background-size: cover; padding: 30px; border-radius: 10px;">
+<div align="center" style="background: url('https://i.imgur.com/z7QK5sM.jpg'); background-size: cover; padding: 30px; border-radius: 10px;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=AI+Developer;Prompt+Engineer;Full-Stack+Developer" alt="Typing Animation" />
 
