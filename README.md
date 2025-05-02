@@ -1,8 +1,6 @@
 <!-- Typing animation with background -->
 <p align="center">
-  <div style="background-color:#0d1117;padding:20px;border-radius:10px;display:inline-block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AI+Developer;Prompt+Engineer;Full-Stack+Developer" alt="Typing SVG" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=AI+Developer;Prompt+Engineer;Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
 <!-- Banner -->
