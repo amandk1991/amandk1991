@@ -1,6 +1,7 @@
 <!-- 🎉 Animated Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Amanulla+Kesaratti+🚀;AI+Engineer+%7C+ML+Practitioner+%7C+Full+Stack+Dev;Building+Smart+and+Secure+Tech+Solutions+💡;Always+Learning+%7C+Always+Creating+🌱;Welcome+to+my+GitHub+Universe!+🌍" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=AI+Developer;Prompt+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Amanulla+Kesaratti+🚀;AI+Engineer+%7C+ML+Practitioner+%7C+Full+Stack+Dev;Building+Smart+and+Secure+Tech+Solutions+💡;Always+Learning+%7C+Always+Creating+🌱;Welcome+to+my+GitHub+Universe!+🌍" alt="Typing SVG" />
 </p>
 
 <!-- 🚀 Custom Header -->
