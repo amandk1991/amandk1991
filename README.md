@@ -32,13 +32,13 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanulla-kesaratti&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanulla-kesaratti&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandk1991&theme=react-dark&bg_color=000000&color=FFD700&line=FF00FF&point=39FF14&area=true&hide_border=true" width="100%" />
 </p>
 
+---
 ---
 
 ### 📫 Contact
